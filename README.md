@@ -26,7 +26,7 @@ $ git clone https://github.com/KhoirH/Batch2ClonePlayStorePart2
 **API:**
 
 ```
-$ cd Batch2ClonePlayStorePart2/database
+$ cd dir/Rest-Api-Clone-Playstore
 $ npm install 
 $ npm start
 ```
@@ -35,7 +35,7 @@ $ npm start
 
 Make sure you already installed React Native and have emulator or real device running. If not visit this page https://facebook.github.io/react-native/docs/getting-started.html
 ```
-$ cd Batch2ClonePlayStorePart2/CrnaDwBoilerplate
+$ cd dir/Clone-Playstore
 $ npm install
 $ exp start
 ```
