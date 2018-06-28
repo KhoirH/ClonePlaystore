@@ -1,4 +1,4 @@
-# Batch2ClonePlayStorePart2
+# ClonePlayStore
 
 PlayStore is a clone app of https://play.google.com. It use React Native as the frontend and Express as the Backend. I am working this app at https://dumbways.id and https://arkademy.com Bootcamp class. Feels free to contribute to make this app better.
 
